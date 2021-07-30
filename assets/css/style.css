@@ -47,8 +47,8 @@ h1, h2{
 }
 
 #menu a:hover{
-    border-top: 1px solid #3a3a3a;
-    border-bottom: 1px solid #3a3a3a;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
     }
 
 .active{
