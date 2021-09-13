@@ -1,0 +1,17 @@
+[33mcommit e24d1ab1bedc16c978e8803c9289a75adb6a8933[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JamesWhe <jameswhelan@email.com>
+Date:   Fri Jul 30 01:13:56 2021 +0000
+
+    change hover menu color
+
+[33mcommit 4d6baf93bd0b62b7ad141bfffecabc6723dcdafb[m
+Author: JamesWhe <jameswhelan@email.com>
+Date:   Fri Jul 30 01:05:39 2021 +0000
+
+    Add style to header
+
+[33mcommit 941c2cda1d8e81125260d4e0bbb3f1d077998aca[m
+Author: JamesWhe <85876552+JamesWhe@users.noreply.github.com>
+Date:   Tue Jul 27 09:16:31 2021 +0100
+
+    Initial commit
